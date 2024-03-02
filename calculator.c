@@ -12,12 +12,12 @@ void main(){
   printf("the sum of %d and %d is %d\n",a,b,c);//sum
 
   d=a*b;
-  printf("the multiplication of %d and %d is %d\n",a,b,d);
+  printf("the multiplication of %d and %d is %d\n",a,b,d);//multiplication 
 
   e=a/b;
-  printf("the division of %d and %d is %d\n",a,b,e);
+  printf("the division of %d and %d is %d\n",a,b,e);//division
 
   f=a-b;
-  printf("the substraction of %d and %d is %d\n",a,b,f);
+  printf("the substraction of %d and %d is %d\n",a,b,f);//substraction
   }
 
